@@ -12,7 +12,7 @@ Bem-vindo ao meu portfólio. Aqui você encontra os principais projetos que dese
 
 ##  Projetos
 
-1. Simulador de Escalonador de Processos
+### 1. Simulador de Escalonador de Processos
 Desenvolvido para estudar e comparar algoritmos clássicos de escalonamento de CPU (como FCFS, Round Robin, SJF e Prioridades). O sistema calcula métricas de desempenho como tempo de espera e *turnaround* para analisar a eficiência de cada política.
 
 * **Conceitos:** Estruturas de dados (filas e prioridades), gerenciamento de estados de processos e lógica de cálculo de métricas.
