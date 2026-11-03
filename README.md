@@ -25,3 +25,9 @@ Site de notícias focado no universo de games e entretenimento do criador de con
 ##  Contato
 
 * **GitHub:** [exn88](https://github.com/exn88)
+* ## 🎥 Apresentação em Vídeo
+
+Você pode conferir a explicação detalhada dos projetos nos links abaixo:
+
+* [Assistir Vídeo 1](https://drive.google.com/file/d/1O56ddmVsoCIKdnpvLkkRHBL3uevcOdVZ/view?usp=sharing)
+
