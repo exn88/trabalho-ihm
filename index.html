@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Portfólio - Erick Natan</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    
+    <header>
+        <h1>Meu Portfólio </h1>
+        <nav>
+            <a href="#sobre">Sobre</a> | 
+            <a href="#projetos">Projetos</a> | 
+            <a href="#contato">Contato</a>
+        </nav>
+    </header>
+
+   
+    <section class="home">
+        
+        <img src="WhatsApp Image 2026-11-03 at 16.52.13.jpeg" alt="Erick Natan" class="foto-perfil">
+        <h2>Olá, eu sou o Erick Natan</h2>
+        <p>Estudante de Ánalise e Desenvolvimento de Sistemas.</p>
+    </section>
+
+    
+    <section id="sobre">
+        <h2>Sobre Mim</h2>
+        <p>Estou aprendendo a criar sites acessíveis, funcionais e organizados utilizando HTML e CSS, com foco em boa experiência para o usuário.</p>
+        
+        <h3>Habilidades</h3>
+        <ul>
+            <li>HTML5 Semântico</li>
+            <li>CSS Básico</li>
+            <li>Design Responsivo</li>
+        </ul>
+    </section>
+
+    
+    <section id="projetos">
+        <h2>Projetos</h2>
+        <div class="projeto">
+            <h3>Escalonador de Processos</h3>
+            <p>Desenvolvimento de um simulador de escalonamento de processos para estudar e demonstrar o funcionamento de diferentes algoritmos de gerenciamento de CPU (como First-Come, First-Served - FCFS, Round Robin, Shortest Job First - SJF, e Prioridades). O projeto calcula métricas essenciais de desempenho, como tempo de espera, tempo de resposta e turnaround, permitindo analisar a eficiência de cada política de escalonamento em diferentes cenários de carga de trabalho.
+
+Principais Tecnologias / Conceitos: Estruturas de dados, algoritmos de fila e prioridade, gerenciamento de estados de processos (Pronto, Executando, Bloqueado).</p>
+        </div>
+        <div class="projeto">
+            <h3>Site de Noticias</h3>
+            <p>Criação de um site de notícias moderno e interativo dedicado ao criador de conteúdo EduKof. O portal conta com um layout responsivo, sistema de grade para notícias em destaque, categorias organizadas e um visual imersivo (com temas escuros e detalhes marcantes). Focado na experiência do usuário (UX/UI), o site simula um agregador de conteúdos atualizados sobre o universo de games e entretenimento do influenciador.</p>
+        </div>
+    </section>
+
+    
+    <section id="contato">
+        <h2>Contato</h2>
+        <form action="mailto:seu-email@dominio.com" method="POST" enctype="text/plain">
+            <div>
+                <label for="nome">Nome:</label><br>
+                <input type="text" id="nome" name="nome" required>
+            </div>
+            <br>
+            <div>
+                <label for="email">E-mail:</label><br>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <br>
+            <div>
+                <label for="mensagem">Mensagem:</label><br>
+                <textarea id="mensagem" name="mensagem" rows="4" required></textarea>
+            </div>
+            <br>
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
+
+ 
+    <footer>
+        <p>&copy; 2026 - Erick Natan | Trabalho de IHM</p>
+    </footer>
+
+</body>
+</html>
