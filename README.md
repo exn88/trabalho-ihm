@@ -24,4 +24,4 @@ Site de notícias focado no universo de games e entretenimento do criador de con
 
 ##  Contato
 
-* **GitHub:** [@exn_88](https://github.com/SEU-USUARIO)
+* **GitHub:** [@exn88](https://github.com/SEU-USUARIO)
